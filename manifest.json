@@ -14,7 +14,7 @@
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "android/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -22,3 +22,4 @@
   "categories": ["business", "productivity"],
   "lang": "ru"
 }
+
